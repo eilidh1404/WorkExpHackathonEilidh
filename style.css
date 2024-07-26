@@ -1,0 +1,23 @@
+/* Background Colours */
+main {background-color:rgb(176, 224, 234)}
+nav {background-color:rgb(248, 246, 208)}
+header {background-color: rgb(176, 224, 234)}
+
+/* Navigation List Properties */
+nav ul {list-style-type:none}
+a {color:#000}
+nav ul li {float:left;width:120px;text-align:center}
+nav ul li a {display:block;padding:10px}
+nav ul li a:hover {background-color: rgb(248, 246, 208);color:rgb(176, 224, 234)}
+
+.h1 {
+    text-decoration: underline;
+}
+
+#div {
+    border-style: solid; 
+    border-color: navy;
+    border-width: 2px;
+    border-radius: 2px;
+}
+
